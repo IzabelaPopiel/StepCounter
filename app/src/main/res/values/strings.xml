@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Licznik kroków</string>
+    <string name="buttonInfo">Start</string>
+    <string name="zeroValue">0</string>
+    <string name="aX">ax</string>
+    <string name="aYValue">0</string>
+    <string name="aY">ay</string>
+    <string name="aZValue">0</string>
+    <string name="aZ">az</string>
+    <string name="aXValue">0</string>
+    <string name="buttonSave">Zapisz</string>
+    <string name="steps">Kroki: </string>
+</resources>
